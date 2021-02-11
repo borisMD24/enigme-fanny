@@ -4,7 +4,7 @@ const check = (e) =>{
       <h1>  
         gg well play
       </h1>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/LM-DpnpHIak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe width="40vh" height="30vw" src="https://www.youtube.com/embed/LM-DpnpHIak" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     `
   }
 }
